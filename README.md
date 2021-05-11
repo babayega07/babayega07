@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @babayega-hash
+- 👋 Hi, I’m @babayega07
 - 👀 I’m interested in learning new things  
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
