@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @babayega07
+- 👋 Hi, I’m mojo_jojo
 - 👀 I’m interested in learning new things  
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abhijeetmishra74@gmail.com
 
